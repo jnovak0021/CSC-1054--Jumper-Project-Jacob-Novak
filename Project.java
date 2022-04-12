@@ -14,7 +14,7 @@ public class Project extends JFrame
    {
       super("Project");
       setVisible(true);
-      setSize(840,640);
+      setSize(835,660);
       
       setBackground(Color.BLACK);
       
